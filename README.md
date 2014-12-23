@@ -3,6 +3,14 @@ IconCutter
 
 Painless way to resize your icon for all platforms: wechat, weibo, ios, android, and so on
 
+## Pre-Installation
+
+IconCutter relies on `imagemagick`, if you do not have it installed, see below:
+
++ if you are using Mac OS, use `brew install imagemagick`
++ if you are using Debian or Ubuntu, use `apt-get install imagemagick`
++ if you are using Windows, pray.....
+
 ## Installation
 
 1. If you have ruby env installed on your computer, just run below command:
