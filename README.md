@@ -41,6 +41,10 @@ iconcutter your_path_to_the_image -o ~/YourIconDirectory
 
 Enjoy, versions of icons for all kinds of platforms will be generated!
 
+## Output
+
+![output](res/screenshot.png)
+
 ## Contribute
 
 + Fork
