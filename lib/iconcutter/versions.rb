@@ -2,7 +2,9 @@ module IconCutter
   module Versions
     PLATFORMS = %w(android ios wechat weibo ios_submition all)
 
-    ANDROID_VERSIONS = []
+    ANDROID_VERSIONS = [
+      [512, 512]
+    ]
 
     IOS_VERSIONS = [
       [29, 29],
